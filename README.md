@@ -10,6 +10,7 @@
 
 ```
 README.md       本说明
+QA_CHECKLIST.md 交付前质检清单
 HANDOFF.md      角色分工、口径、日常流程
 STATUS.md       发布状态表（Markdown）
 STATUS.csv      同上（CSV，方便表格工具）
@@ -17,6 +18,10 @@ overview.md     本批「一帖一包」总览
 posts/          8 篇成稿（标题+正文+话题+首评+合规）
 covers/         8 张封面（与 posts 同序号一一对应）
 ```
+
+## 交付前质检
+
+所有交给老板或总控的 PR、报告，运营先按 [`QA_CHECKLIST.md`](QA_CHECKLIST.md) 逐条核对，并在 PR 描述或报告末尾附勾选结果；不通过的退回获客，不转老板。
 
 ## 口径（务必遵守）
 
