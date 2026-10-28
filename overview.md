@@ -13,7 +13,7 @@
 | 05 | Week2-D1（2026-11-03） | 扩容误解 | [posts/05-扩容误解.md](posts/05-扩容误解.md) | [covers/05-扩容误解.jpg](covers/05-扩容误解.jpg) |
 | 07 | Week2-D3（2026-11-05） | 研招轮次 | [posts/07-研招轮次.md](posts/07-研招轮次.md) | [covers/07-研招轮次.jpg](covers/07-研招轮次.jpg) |
 | 08 | Week2-D4（2026-11-06） | IANG落地 | [posts/08-IANG落地.md](posts/08-IANG落地.md) | [covers/08-IANG落地.jpg](covers/08-IANG落地.jpg) |
-| 09 | Week1-D2（2026-11-02） | 毕业生考研时间表 | [posts/09-毕业生考研时间表.md](posts/09-毕业生考研时间表.md) | [covers/09-毕业生考研时间表.jpg](covers/09-毕业生考研时间表.jpg) |
+| 09 | Week2-顺延（2026-11-02） | 毕业生考研时间表 | [posts/09-毕业生考研时间表.md](posts/09-毕业生考研时间表.md) | [covers/09-毕业生考研时间表.jpg](covers/09-毕业生考研时间表.jpg) |
 | 10 | Week1-D4（2026-10-30） | 教资会扩容与中大通道 | [posts/10-教资会扩容与中大通道.md](posts/10-教资会扩容与中大通道.md) | [covers/10-教资会扩容与中大通道.jpg](covers/10-教资会扩容与中大通道.jpg) |
 | 11 | Week2-D5（2026-11-07） | 规模短讯或费用速算 | [posts/11-规模短讯或费用速算.md](posts/11-规模短讯或费用速算.md) | [covers/11-规模短讯或费用速算.jpg](covers/11-规模短讯或费用速算.jpg) |
 | 12 | 2026-10-28 | 港校截止日历 | [posts/12-港校截止日历.md](posts/12-港校截止日历.md) | [covers/12-港校截止日历.jpg](covers/12-港校截止日历.jpg) |
