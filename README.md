@@ -42,7 +42,7 @@ covers/         9 张封面（13 号暂无，其余与 posts 同序号对应）
 | 05 | 11-04（三） | 扩容误解 | `posts/05-扩容误解.md` | `covers/05-扩容误解.jpg` |
 | 07 | 11-05（四） | 研招轮次 | `posts/07-研招轮次.md` | `covers/07-研招轮次.jpg` |
 | 08 | 11-06（五） | IANG落地 | `posts/08-IANG落地.md` | `covers/08-IANG落地.jpg` |
-| 11 | 11-07（六） | 规模短讯或费用速算 | `posts/11-规模短讯或费用速算.md` | `covers/11-规模短讯或费用速算.jpg` |
+| 11 | 11-07（六） | 规模短讯或费用速算（已发 11-08） | `posts/11-规模短讯或费用速算.md` | `covers/11-规模短讯或费用速算.jpg` |
 | 13 | 11-18～20 | 港校截止日历更新 | `posts/13-港校截止日历更新.md` | 暂不做 |
 
 仓库入口：https://github.com/MrHypeer/hipipe-xiaohongshu
