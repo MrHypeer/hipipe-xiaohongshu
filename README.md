@@ -15,8 +15,8 @@ HANDOFF.md      角色分工、口径、日常流程
 STATUS.md       发布状态表（Markdown）
 STATUS.csv      同上（CSV，方便表格工具）
 overview.md     本批「一帖一包」总览
-posts/          10 篇成稿（标题+正文+话题+首评+合规）
-covers/         9 张封面（13 号暂无，其余与 posts 同序号对应）
+posts/          11 篇成稿（标题+正文+话题+首评+合规）
+covers/         9 张封面（13 号暂无，14 号未入仓；其余与 posts 同序号对应）
 ```
 
 ## 交付前质检
@@ -43,6 +43,7 @@ covers/         9 张封面（13 号暂无，其余与 posts 同序号对应）
 | 07 | 11-05（四） | 研招轮次（已发 11-10） | `posts/07-研招轮次.md` | `covers/07-研招轮次.jpg` |
 | 08 | 11-06（五） | IANG落地（已发 11-14） | `posts/08-IANG落地.md` | `covers/08-IANG落地.jpg` |
 | 11 | 11-07（六） | 规模短讯或费用速算（已发 11-08） | `posts/11-规模短讯或费用速算.md` | `covers/11-规模短讯或费用速算.jpg` |
+| 14 | 11-16（一） | 国际课程早轮窗口（已发 11-16） | `posts/14-国际课程早轮窗口.md` |  |
 | 13 | 11-18～20 | 港校截止日历更新 | `posts/13-港校截止日历更新.md` | 暂不做 |
 
 仓库入口：https://github.com/MrHypeer/hipipe-xiaohongshu
